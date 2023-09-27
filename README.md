@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
 <h3 align="center">A passionate full-stack developer from Georgia, mainly focused on angular/react and node/nestjs</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pm4S40MGsIQAAAAC/hacker-hackerman.gif">
